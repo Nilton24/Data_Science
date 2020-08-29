@@ -14,8 +14,7 @@ I`m a Economics Sciences student, who love data science.I bilive that better dec
 
 **Background in:** Python, Office pakadge.
 
-**Links:**
-* 
+
 
 
 
