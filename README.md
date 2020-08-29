@@ -6,7 +6,7 @@ Meu portfólio pessoal
   <img src="banner.png" >
 </p>
 
-# Nilton CArdoso
+# Nilton Cardoso
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 I`m a Economics Sciences student, who love data science.I bilive that better decissions are taken based on data.
