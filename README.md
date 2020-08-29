@@ -18,7 +18,7 @@ I`m a Economics Sciences student, who love data science.I bilive that better dec
 * 
 
 * [Medium](https://www.medium.com)
-* [Twitter](@NiltonC80270166)
+* [Twitter](NiltonC80270166)
 
 
 
