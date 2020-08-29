@@ -17,7 +17,7 @@ I`m a Economics Sciences student, who love data science.I bilive that better dec
 
 **Links:**
 * 
-* [LinkedIn](https://www.linkedin.com/in/nilton-cardoso-91931b107)
+* [LinkedIn](https://www.linkedin.com/in/nilton-cardoso)
 * [Medium](https://www.medium.com)
 
 
