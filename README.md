@@ -6,7 +6,7 @@ Meu portfólio pessoal
 </p>
 
 # Nilton Cardoso
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>* Pós-graduando em Data Science Analytics USP/ESALQ <sub>
 
 I`m a Economics Sciences student, who love data science.I bilive that better decissions are taken based on data.
 
